@@ -1,1 +1,2 @@
 Step 1: file for master branch.
+Step 2: commit#2 in master branch.
